@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Xue Sheng wen
+subtitle: A blog-orientation theme for Xue 
+welcome_message: <a href="https://github.com/xueshengwen/xueshengwen.github.io" target="_blank">Download the theme</a>
+description: Xue Shengwen is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: xueshengwen
+    github: xueshengwen
+    twitter: xueshengwen
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: xueshengwen@mingdabeta.com
 
 # Google Analytics
 ga:
