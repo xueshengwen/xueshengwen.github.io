@@ -1,0 +1,7 @@
+---
+layout: post
+title: Elk部署
+date: 2017-05-04 11:11:11.000000000 +09:00
+tags: Jekyll Github
+---
+jump 机器有1个elastic
